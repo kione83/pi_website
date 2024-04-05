@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61de1466.css",
+    "main.js": "/static/js/main.d72bd83e.js",
+    "static/media/pi_logo.webp": "/static/media/pi_logo.c457d46abc25291becfc.webp",
+    "static/media/description_image.webp": "/static/media/description_image.994eb59f1ee53eb24f10.webp",
+    "index.html": "/index.html",
+    "main.61de1466.css.map": "/static/css/main.61de1466.css.map",
+    "main.d72bd83e.js.map": "/static/js/main.d72bd83e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61de1466.css",
+    "static/js/main.d72bd83e.js"
+  ]
+}
